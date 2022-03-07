@@ -14,3 +14,6 @@ Descripción:
 <li>El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.</li>
 <li>La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.</li>
 </ul>
+
+## Dulce Placer
+<img src="Logo/logo.png">
